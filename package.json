@@ -1,0 +1,35 @@
+{
+  "name": "hjs-message",
+  "version": "1.0.0",
+  "description": "Messaging API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-message.git"
+  },
+  "keywords": [
+    "Registration",
+    "MessageBroadcaster",
+    "Callback",
+    "Runnable",
+    "BlockingRunnable",
+    "Messenger",
+    "MessageHandler",
+    "Message",
+    "IdleHandler",
+    "MessageQueue",
+    "CountDownTimer"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-message/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-message#readme"
+}
