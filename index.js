@@ -1,7 +1,7 @@
 /** @babel */
 import {
     Registration,
-    MessageBroadcaster} from './lib/broadcaster';
+    MessageBroadcaster} from './lib/broadcast';
 import {
     Callback,
     Runnable,

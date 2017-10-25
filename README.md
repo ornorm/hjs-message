@@ -1,4 +1,4 @@
-# Product Name
+# HJS-MESSAGE
 > Messaging API of the Hubrisjs javascript framework.
 
 Messaging classes: MessageBroadcaster, MessageHandler, MessageQueue and CountDownTimer.
