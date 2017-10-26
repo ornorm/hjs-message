@@ -1,6 +1,6 @@
 {
   "name": "hjs-message",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Messaging API",
   "main": "index.js",
   "directories": {
